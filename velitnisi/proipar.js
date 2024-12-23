@@ -1,0 +1,1 @@
+let nextSample = NaN;
